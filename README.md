@@ -70,7 +70,8 @@ Chinese BERT: https://huggingface.co/bert-base-chinese/tree/main [!--https://cdn
 
 Word Embedding: https://ai.tencent.com/ailab/nlp/en/data/tencent-ailab-embedding-zh-d200-v0.2.0.tar.gz
 
-
+### Pig disease word embedding:
+As the word embedding  will be used for other technical research, it is currently not public. 
 
 # Directory Structure of data
 
@@ -102,7 +103,12 @@ Word Embedding: https://ai.tencent.com/ailab/nlp/en/data/tencent-ailab-embedding
 
 # Cite
 
-```
+```@{
+    title = "A New Chinese Named Entity Recognition Method for Pig Disease Domain Based on Lexicon Enhanced BERT and Contrastive Learning",
+    author = "Cheng Peng, Xiajun Wang, Qifeng Li, Qinyang Yu, Ruixiang Jiang, Weihong Ma,Wenbiao Wu, Rui Meng, Haiyan Li, Heju Huai, Shuyan Wang, Longjuan He",
+    url = "https://www.preprints.org/manuscript/202405.2054/v1",
+    doi = "10.20944/preprints202405.2054.v1"
+  }
 
 ```
 
