@@ -103,21 +103,6 @@ Word Embedding: https://ai.tencent.com/ailab/nlp/en/data/tencent-ailab-embedding
 # Cite
 
 ```
-@inproceedings{liu-etal-2021-lexicon,
-    title = "Lexicon Enhanced {C}hinese Sequence Labeling Using {BERT} Adapter",
-    author = "Liu, Wei  and
-      Fu, Xiyan  and
-      Zhang, Yue  and
-      Xiao, Wenming",
-    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
-    month = aug,
-    year = "2021",
-    address = "Online",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.acl-long.454",
-    doi = "10.18653/v1/2021.acl-long.454",
-    pages = "5847--5858"
-}
 
 ```
 
